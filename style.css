@@ -1,0 +1,25 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #a3abbe;
+    color: #222;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+.caixa-curriculo {
+    max-width: 700px;
+    margin: 40px auto;
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.10);
+    padding: 40px 32px 32px 32px;
+    border: 2px solid #2a4d8f;
+}
+
+
+
